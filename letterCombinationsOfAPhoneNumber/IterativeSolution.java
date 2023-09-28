@@ -48,4 +48,5 @@ class Solution {
         }
     }
 
-// Running time: O(N^2)
+// Time Complexity: O(4^N)
+// Space Complexity: O(4^N)
